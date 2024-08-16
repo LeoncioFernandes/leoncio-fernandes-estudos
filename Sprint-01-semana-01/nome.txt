@@ -7,3 +7,5 @@ Tenho me focado em conhecer e estudar as tecnologias de FrontEnd como HTML, CSS 
 Já conheço e utilizei um pouco de TailwindCSS e React + Next.JS e já tinha utilizado o Git e o GitHub em projetos na universidade.
 
 Também já estudei, C, C#, Visual Basic (desenvolvi um sistema), PHP, Java e Bootstrap.
+
+Nas horas vagas gosto de estar com minha família, de games, de séries e filmes...

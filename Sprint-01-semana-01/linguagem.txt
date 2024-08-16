@@ -1,0 +1,8 @@
+Gosto da linguagem de programação que dá mais dinheiro! =P
+
+Falando sério, hoje tenho gostado bastante de Javascript + Typescript justamente por
+estudar o React com Next.js e conseguir progredir e desenvolver meus conhecimentos na linguagem.
+
+Mas também gostei bastante do C# e do Java.
+
+Ainda nas linguagens, nesse irei estudar Dart por causa do framework Flutter que será trabalhado na disciplina de Programação para disposistivos móveis.

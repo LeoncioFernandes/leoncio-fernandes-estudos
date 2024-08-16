@@ -1,0 +1,9 @@
+Me chamo Leoncio Fernandes e tenho 36 anos.
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unipê.
+Essa é minha segunda graduação. A minha primeira graduação foi em Música com habilitação em Canto.
+Sim! Um cantor que ama tecnologia! =D
+
+Tenho me focado em conhecer e estudar as tecnologias de FrontEnd como HTML, CSS e Javascript.
+Já conheço e utilizei um pouco de TailwindCSS e React + Next.JS e já tinha utilizado o Git e o GitHub em projetos na universidade.
+
+Também já estudei, C, C#, Visual Basic (desenvolvi um sistema), PHP, Java e Bootstrap.

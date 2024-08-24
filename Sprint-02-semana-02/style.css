@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body {
+    background-color: #FF6064;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.containter {
+    width: 100%;
+    max-width: 300px;
+    height: 100%;
+    max-height: 612px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img1 {
+    width: 100%;
+    height: auto;
+}
+
+.img2 {
+    width: 100%;
+    max-width: 90px;
+    height: auto;
+}
+

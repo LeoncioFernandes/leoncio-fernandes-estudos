@@ -1,3 +1,7 @@
-setTimeout(() => {
-    window.location.href = "new-page.html"
-}, 4000)
+function redirecionar(url){
+    setTimeout(() => {
+        window.location.href = url;
+    }, 4000)
+}
+
+

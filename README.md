@@ -4,3 +4,10 @@
 - Segurança da Informação
 - Scrum
 - Git e GitHub
+
+## Semana 02
+- Desenvolvimento Web
+- HTML
+- CSS
+- Javascript
+- CSS Flexbox

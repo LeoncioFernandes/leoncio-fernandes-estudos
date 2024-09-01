@@ -2,7 +2,7 @@
 
 ## Conteúdos Estudados:
 
-Nesta semana aprofundei os conhecimentos sobre Javascript, estudando os conceitos da linguagem do básico ao avançado.
+Nesta semana aprofundei os conhecimentos sobre Javascript, estudando os conceitos da linguagem do básico ao avançado. Opcionalmente também estudei conteúdos relacionados à CSS Grid.
 
 ## Principais estudos Javascript:
 

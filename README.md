@@ -11,3 +11,7 @@
 - CSS
 - Javascript
 - CSS Flexbox
+
+## Semana 03
+- Aprofundamento em Javascript (básico ao avançado)
+- CSS Grid (Opcional)

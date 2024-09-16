@@ -15,3 +15,7 @@
 ## Semana 03
 - Aprofundamento em Javascript (básico ao avançado)
 - CSS Grid (Opcional)
+
+## Semana 04
+- Finalização do Aprofundamento em JavaScript (básico ao avançado + Node.Js)
+- TypeScript

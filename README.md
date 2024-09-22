@@ -16,6 +16,10 @@
 - Aprofundamento em Javascript (básico ao avançado)
 - CSS Grid (Opcional)
 
-## Semana 04
+## Semana 05
 - Finalização do Aprofundamento em JavaScript (básico ao avançado + Node.Js)
 - TypeScript
+
+## Semana 06
+- Tailwind CSS
+- React + TypeScript (parte 1)

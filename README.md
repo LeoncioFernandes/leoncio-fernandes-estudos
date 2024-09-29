@@ -23,3 +23,7 @@
 ## Semana 06
 - Tailwind CSS
 - React + TypeScript (parte 1)
+
+## Semana 07
+- React + TypeScript (parte 2)
+- React + Projetos (parte 1)
